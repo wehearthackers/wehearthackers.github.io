@@ -58,7 +58,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #44cc00;//$header;
+  color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -74,7 +74,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #aaa;
+  color: #666;
 }
 
 #downloads .btn {
@@ -195,15 +195,20 @@ hr {
 */
 
 .btn {
-  background-color: #44cc00;
-  border: none;
-  color: #eaeaea;
-  padding: 15px 30px;
-  text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
+  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
+  padding: 8px 18px;
+  border-radius: 50px;
+  border: 2px solid rgba(0, 0, 0, 0.7);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+  border-top: 2px solid rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
 .btn:hover {
