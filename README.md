@@ -4,4 +4,4 @@ This repo contains the website files for the [#WeHeartHackers](https://weheartha
 
 Want to join the movement? Sign the [pledge](https://airtable.com/shrEmhFBqJ1BUjmZR) for more information. 
 
-![wehearthackers-logo](wehearthackers-logo.png)
+![wehearthackers-logo](assets/images/webiohearthackers_green.png)
