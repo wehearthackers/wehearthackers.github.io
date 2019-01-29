@@ -14,3 +14,5 @@ The [Biohacking Village](https://www.villageb.io/) welcomes all those who act in
 # Friends of #WeHeartHackers
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr5wvpJ6K3mbnimK?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+NOTE: If you're at the [FDA Public Workshop "Content of Premarket Submissions for Management of Cybersecurity in Medical Devices"](https://www.fda.gov/MedicalDevices/NewsEvents/WorkshopsConferences/ucm623171.htm) and using the 'FDA PUBLIC' WiFi, our Airtable chart above is blocked by the network. Use a VPN or check this site out on your phone. 
