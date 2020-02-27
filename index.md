@@ -17,4 +17,4 @@ The **#WeHeartHackers** initiative is expanding to other sectors in 2020 with th
 
 <a href="https://airtable.com/shrEmhFBqJ1BUjmZR" class="btn"><span></span>Join #WeHeartHackers</a>
 
-{% include domains.html %}
+{% include domains.html %} 
